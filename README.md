@@ -1,38 +1,36 @@
-# Dairy_Data_Analysis
+# 1 Dairy_Data_Analysis
 
 This repository contains an assignment on Dairy Data Analysis using Python and Jupyter Notebook. The notebook explores and analyzes dairy-related data, applying various statistical and machine learning techniques.
 
-# Files in this Repository
+# 2 Files in this Repository
 
     Dairy_Data_Exploration.ipynb - Jupyter Notebook containing the analysis.
 
     README.md - This file, describing the project and how to use it.
 
-# Installation & Setup
+# 3 Installation & Setup
 
- ## 1. Clone the Repository
+ ## i) Clone the Repository
 
     git clone https://github.com/your-username/Dairy_Data_Analysis.git
     cd Dairy_Data_Analysis
 
- ## 2. Create a Virtual Environment (Optional but Recommended)
+ ## ii) Create a Virtual Environment (Optional but Recommended)
 
      python -m venv venv
      source venv/bin/activate  # On Windows use 'venv\\Scripts\\activate'
 
- ## 3. Install Dependencies
+ ## iii) Install Dependencies
 
-    The required Python libraries are already imported within the Jupyter Notebook. However, to ensure you have the necessary dependencies, install the following commonly used packages:
+    The required Python libraries are already imported within the Jupyter Notebook. 
 
-      pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras opendatasets
-
- ## 4. Open Jupyter Notebook
+ ##  iv) Open Jupyter Notebook
 
     jupyter notebook
 
- ## 5 Then, open Dairy_Data_Exploration.ipynb and run the cells.
+ ##  v) Upload Dairy_Data_Exploration.ipynb and run the cells.
 
-# Dataset
+# 4 Dataset
 
   The dataset is either a local file or downloaded using opendatasets. Check the notebook to determine how it is being loaded:
 
@@ -45,7 +43,7 @@ This repository contains an assignment on Dairy Data Analysis using Python and J
 
 Follow the instructions in the python notebook file to download the dataset from Kaggle.
 
-# Contribution
+# 5 Contribution
 
 Feel free to fork this repository and improve the analysis.
 
