@@ -24,9 +24,11 @@ This repository contains an assignment on Dairy Data Analysis using Python and J
 
  3. Install Dependencies
 
-     pip install -r requirements.txt
+    The required Python libraries are already imported within the Jupyter Notebook. However, to ensure you have the necessary dependencies, install the following commonly used packages:
 
- 4. Open Jupyter Notebook
+      pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras opendatasets
+
+ 5. Open Jupyter Notebook
 
     jupyter notebook
 
